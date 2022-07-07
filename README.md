@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+To open website - https://netflix-clone-ff31b.web.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
